@@ -8,5 +8,5 @@
 /// This library makes long "if - if else" blocks fancier
 library dart_switch;
 
-export 'src/switch.dart';
+export 'src/switch_class.dart';
 
