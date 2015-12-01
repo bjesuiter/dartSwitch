@@ -1,3 +1,6 @@
+// Copyright (c) 2015, Benjamin Jesuiter. All rights reserved. Use of this source code
+// is governed by an Apache2 license that can be found in the LICENSE file.
+
 library dart_switch.example;
 
 import 'package:dart_switch/dart_switch.dart';
