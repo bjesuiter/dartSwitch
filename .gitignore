@@ -10,4 +10,6 @@ packages
 
 .idea/
 *.lock
+.pub
+
 
