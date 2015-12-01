@@ -1,6 +1,6 @@
 # dartSwitch
-A little dart library for wrapping big "if - if else" blocks in a nicer structure.
-This is mainly for learning purposes.
+A little dart library for wrapping big "if - if else" blocks in a Switch..Case structure.
+This is mainly for learning purposes of me.
 I know, it's somehow stupid, but maybe someone has a use-case for this.
  At least with some additions :)
 
