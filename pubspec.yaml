@@ -1,6 +1,6 @@
 name: dart_switch
-description: A starting point for Dart libraries or applications.
-version: 0.0.1
+description: A little dart library for wrapping big "if - if else" blocks in a Switch..Case structure.
+version: 0.1
 author: Benjamin Jesuiter <bjesuiter@gmail.com>
 #homepage: https://www.example.com
 
