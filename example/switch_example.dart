@@ -9,10 +9,12 @@ main() {
   var i = 5;
 
   Condition cond = () => i < 15;
-  Function doe = () => print("i kleiner 15");
+  Function doe = () => print("i smaller than 15");
 
-  Switch
+  new Switch()
     ..Case(cond, doe)
-    ..Case(() => i < 10, () => print("i kleiner 10"))
-    ..Case(i > 15, () => print("This callback won't run"));
+    ..Case(() => i < 10, () => print("i smaller than 10"))
+    ..Case(i > 15, () => print("This callback won't run"))
+    ..Default(
+        () => print("This callback will run when no case block was executed"));
 }
