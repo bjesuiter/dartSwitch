@@ -4,6 +4,15 @@ This is mainly for learning purposes of me.
 I know, it's somehow stupid, but maybe someone has a use-case for this.
  At least with some additions :)
 
+--- 
+
+## Update: Archival on 2022-09-25 
+
+This repo was for purely academic purposes and I've no interest in maintaining it. 
+If someone is interested, it can be forked freely.
+
+--- 
+
 ## Usage
 I think this has a really obvious usage. Create a new __Switch__ object and set __Case__ callbacks
 with the dart 'do-with-object' operator (..).
